@@ -1,0 +1,63 @@
+BODY
+{
+    FONT-SIZE: 10pt;
+    BACKGROUND-COLOR: navy
+}
+.tablebody
+{
+    FONT-SIZE: 10pt;
+    BACKGROUND-COLOR: #99cc00
+}
+.tableborder
+{
+    BORDER-RIGHT: #008080 1px solid;
+    BORDER-TOP: #008080 1px solid;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #008080 1px solid;
+    BORDER-BOTTOM: #008080 1px solid;
+    BACKGROUND-COLOR: white
+}
+.tablebody1
+{
+    BORDER-RIGHT: powderblue 1px solid;
+    PADDING-RIGHT: 4px;
+    BORDER-TOP: powderblue 1px solid;
+    PADDING-LEFT: 4px;
+    FONT-SIZE: 10pt;
+    PADDING-BOTTOM: 1px;
+    BORDER-LEFT: powderblue 1px solid;
+    PADDING-TOP: 1px;
+    BORDER-BOTTOM: powderblue 1px solid
+}
+TD
+{
+    FONT-SIZE: 10pt
+}
+A:active
+{
+    FONT-SIZE: 10pt;
+    COLOR: #800000;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    FONT-SIZE: 10pt;
+    COLOR: #ff0000;
+    TEXT-DECORATION: none
+}
+A:link
+{
+    FONT-SIZE: 10pt;
+    COLOR: #800000;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    FONT-SIZE: 10pt;
+    COLOR: #800000;
+    TEXT-DECORATION: none
+}
+TH
+{
+    FONT-SIZE: 10pt
+}
